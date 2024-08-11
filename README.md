@@ -1,4 +1,7 @@
 ## Hi there 👋
+Meu nome é Luciene
+👩 Sou professora da rede pública de ensino
+Estou desenvovendo na linguagem JavaScritpt 
 
 <!--
 **Luciene72/Luciene72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
